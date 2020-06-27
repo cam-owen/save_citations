@@ -19,7 +19,7 @@ class GetArticleApp:
         self.reference = ref.translate({ord('.'): None})
         # Step 2: Split the provided citation into a list of three components - author(s), year, and title.
         # NOTE: The app splits the citation through the "year", so if there's a number in the title,
-        # things can be a bit wonky.
+        # things can be a bit wonky. But it does not affect the other entries.
         self.li = re.split('([0-9]+)', self.reference)
         print(self.li)
 
