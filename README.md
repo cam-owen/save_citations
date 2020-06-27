@@ -10,7 +10,7 @@ As it saves the citations, it breaks them down into the author, publication year
 ![GitHub Logo](https://github.com/cam-owen/save_citations/blob/master/Screen%20Shot%202020-06-27%20at%204.21.03%20PM.png)
 
 
-It also allows you to search for the citation on Google Scholar, if you want to.
+It also allows you to find the citation on Google Scholar, if you want to.
 
 *There is some setup tasks you need to do before getting started. So, make sure you read notes, which I provided in the program itself.*
 
