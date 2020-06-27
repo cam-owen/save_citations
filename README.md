@@ -11,7 +11,7 @@ There is some setup tasks you need to do before getting started. So, make sure y
 ---
 
 
-# MY INSPIRATION:
+# MY INSPIRATION
 
 As a someone who reads a lot of academic works, I always end up with one big problem. I would read a journal article, find it helpful to my project, and go to its reference list to see what other works I can check out. 
 
