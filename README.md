@@ -1,4 +1,4 @@
-# save_citations
+# SAVE CITATIONS
 
 For my first (ever!) python coding project, I decided to do a python program that automates saving citations into an excel sheet.
 
