@@ -12,6 +12,12 @@ As it saves the citations, it breaks them down into the author, publication year
 
 It also allows you to find the citation on Google Scholar, if you want to.
 
+![GitHub Logo](https://github.com/cam-owen/save_citations/blob/master/Screen%20Shot%202.png)
+
+
+![GitHub Logo](https://github.com/cam-owen/save_citations/blob/master/Screen%20Shot%203.png)
+
+
 *There is some setup tasks you need to do before getting started. So, make sure you read notes, which I provided in the program itself.*
 
 ---
