@@ -31,7 +31,7 @@ It also allows you to search for the citation on Google Scholar, if you want to.
   * I would open a new tab and search for each presumably relevant work on Google Scholar just so I can get back to each of them later.
 
 
-Not very efficient and organized...and I end up with a lot of open tabs.
+Not very efficient and organized...and I end up with a lot of open tabs. 
 
 
-The program solves this issue, and I use it in conjunction with Zotero. 
+The program solves this issue as I can search for presumably relevant works in a more systematic manner or at a later time. And I use it in conjunction with Zotero. 
