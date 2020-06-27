@@ -28,7 +28,7 @@ It also allows you to search for the citation on Google Scholar, if you want to.
 
 * So, what happens? 
 
-  * I would open a new tab and search for each presumably relevant work on Google Scholar just so I can get back to each of them later
+  * I would open a new tab and search for each presumably relevant work on Google Scholar just so I can get back to each of them later.
 
 
 Not very efficient and organized...and I end up with a lot of open tabs.
