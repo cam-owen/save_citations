@@ -25,9 +25,13 @@ It also allows you to search for the citation on Google Scholar, if you want to.
 
   * But I have no way of storing the citations for works that I think might be relevant. 
 
-* So, what happens? 
-  * I would open a new tab and search for each presumably relevant work on Google Scholar just so I can have a way of getting back to each of them later
 
-...Not very efficient and organized. 
+* So, what happens? 
+
+  * I would open a new tab and search for each presumably relevant work on Google Scholar just so I can get back to each of them later
+
+
+Not very efficient and organized...and I end up with a lot of open tabs.
+
 
 The program solves this issue, and I use it in conjunction with Zotero. 
