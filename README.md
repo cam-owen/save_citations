@@ -2,9 +2,9 @@
 
 For my first ever coding project, I decided to do a python program that automates saving citations into an excel sheet.
 
-Specifically, the program allows you to insert as many citation as you'd like and save each citation into an excel sheet. 
+Specifically, the program allows you to insert as many citations as you'd like and save each citation into an excel sheet. 
 
-As it saves the citation, it breaks each citation down into the author, publication year, and title.
+As it saves the citations, it breaks them down into the author, publication year, and title.
   
   
 ![GitHub Logo](https://github.com/cam-owen/save_citations/blob/master/Screen%20Shot%202020-06-27%20at%204.21.03%20PM.png)
