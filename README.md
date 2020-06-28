@@ -18,6 +18,9 @@ It also allows you to find the citation on Google Scholar, if you want to.
 ![GitHub Logo](https://github.com/cam-owen/save_citations/blob/master/Screen%20Shot%203.png)
 
 
+*You can use pyinstaller to turn the py file into an executable as well: https://www.pyinstaller.org/*
+
+
 *There is some setup tasks you need to do before getting started. So, make sure you read notes, which I provided in the program itself.*
 
 ---
